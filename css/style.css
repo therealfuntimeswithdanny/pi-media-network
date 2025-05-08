@@ -43,7 +43,7 @@ img {
 
 .sports-category,
 .entertainment-category,
-.technology-category {
+.ad-category {
   display: inline-block;
   text-transform: uppercase;
   font-size: 0.7rem;
@@ -61,7 +61,7 @@ img {
   background-color: rgb(186, 98, 197);
 }
 
-.technology-category {
+.ad-category {
   background-color: rgb(0, 151, 245);
 }
 
@@ -181,7 +181,7 @@ SHOWCASE
   position: relative;
   color: white;
   height: 60vh;
-  background: url(../images/background.jpg) center center/cover;
+  background: url(https://cdn.funtimesmedia.uk/blogs/538545649b8f9e6a8b077d3f52e5e06e.original.jpg) center center/cover;
 }
 
 .showcase::before {
