@@ -298,6 +298,10 @@ footer {
   margin-top: 1rem;
 }
 
+footer a {
+  color: white;
+}
+
 .footer {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -570,7 +574,5 @@ FOR MOBILE
     flex-direction: column;
   }
 
-  a {
-    color: white;
-  }
+
 }
