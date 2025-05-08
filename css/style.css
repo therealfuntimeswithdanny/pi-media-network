@@ -569,4 +569,8 @@ FOR MOBILE
   .article-page > *:first-child > *:nth-child(3) {
     flex-direction: column;
   }
+
+  a {
+    color: white;
+  }
 }
